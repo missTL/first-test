@@ -2,5 +2,4 @@
 this is my new test.
 
 # test
-https://youtu.be/aLv31z8OrAs?si=rC2J_k2ui6Uo3_yj
-https://github.com/OpenDriveLab/DriveLM-new/assets/54334254/ad8be86e-e2a4-4420-876c-35b3e7cfc031
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aLv31z8OrAs?si=ZBzOK_v7ygApxjOl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
