@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/a99a14a3-a892-4cbe-ac1f-66b777d9081b
 
 ## Table of Contents
 - [🛠️ Installation](#-Installation)
-- [📦 Data Preparation](#-Data Preparation)
+- [📦 Data Preparation](#-Data-Preparation)
 - [🚀 Training](#-Training)
 - [🎯 Infer](#-Infer)
 - [📈 Evaluation](#-Evaluation)
