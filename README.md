@@ -18,6 +18,8 @@ Mu Xu<sup>1</sup>,
 <sup>2</sup>Xi’an Jiaotong University,
 <sup>3</sup>DAMO Academy, Alibaba Group
 
+Official implementation of FSDrive - a VLM can think visually about trajectory planning, advancing autonomous driving towards visual reasoning.
+
 https://github.com/user-attachments/assets/a99a14a3-a892-4cbe-ac1f-66b777d9081b
 
 </div>
